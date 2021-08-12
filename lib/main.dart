@@ -4,6 +4,9 @@ void main() {
   runApp(MyApp());
 }
 
+void runApp(MyApp myApp) {
+}
+
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
@@ -67,3 +70,7 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+
+class StatelessWidget {
+}
+//ysdcgywdeigcweligdfuilerfuoeriufporusvhuorilhuv
